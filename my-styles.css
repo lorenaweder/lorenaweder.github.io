@@ -783,7 +783,7 @@ body {
 	background-size: 100%;
 	text-align:center;
 	margin: 0 auto;
-	padding: 0 0 80px;
+	padding: 0 0 50px;
 	max-width: 1700px;
 }
 
@@ -810,9 +810,9 @@ body {
 	height: 100%;
 }
 
-.inner-home {
+/*.inner-home {
 	background: url("images/separador-pastos.png") no-repeat center bottom;
-}
+}*/
 
 #rest {
 	background: url("images/lineas.png") center #eee;
